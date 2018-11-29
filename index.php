@@ -13,7 +13,7 @@ class Home {
     }
 
     public function pagesizes () {
-        echo "这里是我的列表页1.0.1";
+        echo "这里是我的列表页1.0.122222222222222";
     }
 }
 ?>
